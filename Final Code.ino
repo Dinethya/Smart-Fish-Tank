@@ -38,7 +38,7 @@ const int servoPin = 13;
 
 ///////////////////////////// WIFI DETAILS /////////////////////////////
 char ssid[] = "Siyol-4G3D4D0D";
-char pass[] = "CA6960B7";
+char pass[] = "PASSWORD";
 
 
 
